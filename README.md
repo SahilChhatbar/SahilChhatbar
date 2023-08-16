@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kunj Shukla and I'm a ML Enthusatic.</h2>
+<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am currently learning DSA and ML.</h2>
 
 ###
 
