@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[[[https://i.imgflip.com/65efzo.gif](https://myanimelist.net/forum/?topicid=1612330)](https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH)](https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
