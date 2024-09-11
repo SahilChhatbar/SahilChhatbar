@@ -17,7 +17,7 @@
   <img width="20" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30" alt="pytorch logo"  />
   <img width="20" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNjE4NzcsIm5iZiI6MTcyNjA2MTU3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDEzMzI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlZTlkN2I0YTVmZWRlN2IzY2FlYTJlYjgwMDAzMGYzMDMxZDkxMzkyMTFkN2MxZTI3MjUxMDhiNzAwOWEwZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J5OnhP5MIooU5oaHdUMJK4WS1WJUUE5SYAVFGvFNy3Q" height="30" alt="rust logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30" alt="rust logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="rust logo"  />
   <img width="20" />
