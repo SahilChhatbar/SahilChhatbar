@@ -9,7 +9,7 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="30" alt="go logo"  />
   <img width="30" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/.github/example-light.png#gh-light-mode-only" height="30" alt="pytorch logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="30" alt="pytorch logo"  />
   <img width="20" />
   <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNjE4NzcsIm5iZiI6MTcyNjA2MTU3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDEzMzI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0OTlhYzFhOTRlNmY0OWMzYjIzY2E2ZjQwNzY5MTRmOGM4OTIzMGI0MzY1ZDg2MjU4NmIxOTFkOWNkMTE5ZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GztAX6bCx9D7KHvJFrTR2bGr7v9ytRmctetf_H-6fw0" height="30" alt="pytorch logo"  />
   <img width="20" />
