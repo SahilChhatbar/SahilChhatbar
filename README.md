@@ -21,7 +21,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="rust logo"  />
   <img width="20" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="30" alt="rust logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="30" alt="rust logo"  />
   <img width="20" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="30" alt="python logo"  />
   <img width="20" />
