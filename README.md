@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH"  />
+<img align="right" height="120" src="https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH"  />
 
 ###
 
