@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am currently learning DSA and ML.</h2>
+<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am a MERN Stack Developer.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://myanimelist.net/forum/?topicid=1612330)"  />
 
 ###
 
