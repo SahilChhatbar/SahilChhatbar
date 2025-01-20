@@ -27,8 +27,6 @@
   <img width="20" />
   <img src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNjE4NzcsIm5iZiI6MTcyNjA2MTU3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDEzMzI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZmI0ZmE0ZGQzYWY4NGU2YzIzMzI4MzMzYTRhMDg0NzdhNDRhNjhkOTg2NDkwZmYwMjc4MWMxOGRlNjE1NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0J2CacsYSsjUdUb2KK2uq-CfXGttB3S-A7gUwwRDZto" height="30" alt="c logo"  />
   <img width="20" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/WordPress.svg" height="30" alt="python logo"  />
-  <img width="20" />
 </div>
 
   
