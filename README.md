@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am a MERN Stack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am a Frontend Developer.</h2>
 
 ###
 
