@@ -1,48 +1,168 @@
-<h2 align="left">Hi 👋! My name is Sahil Chhatbar. I am a Frontend Developer.</h2>
+<h1 align="center">Hi 👋, I'm Sahil Chhatbar</h1>
 
-###
+<h3 align="center">Software Developer · React.js · Next.js · TypeScript</h3>
 
-<img align="right" height="120" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"  />
+<p align="center">
+  <a href="https://sahil-chhatbar.runs-on.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sahil--chhatbar.runs--on.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chhatbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahilchhatbar7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sahilchhatbar7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="30" alt="go logo"  />
-  <img width="30" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30" alt="opencv logo"  />
-  <img width="20" />
-   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="30" alt="opencv logo"  />
-  <img width="20" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30" alt="rust logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="rust logo"  />
-  <img width="20" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="30" alt="rust logo"  />
-  <img width="20" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNjE4NzcsIm5iZiI6MTcyNjA2MTU3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTExVDEzMzI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZmI0ZmE0ZGQzYWY4NGU2YzIzMzI4MzMzYTRhMDg0NzdhNDRhNjhkOTg2NDkwZmYwMjc4MWMxOGRlNjE1NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0J2CacsYSsjUdUb2KK2uq-CfXGttB3S-A7gUwwRDZto" height="30" alt="c logo"  />
-  <img width="20" />
-</div>
+## 👨‍💻 About Me
 
-  
- 
+I'm a **Software Developer** focused on building scalable, responsive, and maintainable web applications.
 
+* 💼 Software Developer at **Lamda Logs**
+* ⚛️ Specialized in **React.js, Next.js, TypeScript, and JavaScript**
+* 🎨 Experienced in translating **Figma designs into production-ready interfaces**
+* 🔄 Strong experience with **Redux, Redux Toolkit, Zustand, and TanStack Query**
+* 🧪 Write **unit tests with Vitest** and **E2E tests with Playwright**
+* ♿ Focused on **responsive UI, semantic HTML, ARIA, and accessibility**
+* 🤖 Experienced with **AI-assisted development and AI agents**
+* 🧠 Currently interested in modern frontend architecture, performance, and developer tooling
 
- 
-###
+---
 
-<div align="left">
-  
+## 🛠️ Tech Stack
 
-  
-  <a href="mailto:sahilchhatbar7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  ></img></a>
-</div>
+### Frontend
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" height="45" alt="Frontend technologies" />
+</p>
 
-<!---
-SahilChhatbar/SahilChhatbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Styling & UI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="45" alt="Styling technologies" />
+</p>
+
+**Material UI · ShadCN UI · Radix UI · Headless UI · Mantine**
+
+### State Management & Data Fetching
+
+**Redux · Redux Toolkit · Zustand · Context API · TanStack Query**
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb" height="45" alt="Backend technologies" />
+</p>
+
+**REST APIs · JWT Authentication · OAuth · SQL**
+
+### Testing
+
+**Vitest · Jest · React Testing Library · Playwright**
+
+### Tools & Workflow
+
+**Git · GitHub · GitHub Actions · GitLab · Vite · Webpack · Babel · Postman · Linear · CI/CD · Agile/Scrum**
+
+### AI-Assisted Development
+
+**AI Agents · Claude Code · Codex · GitHub Copilot · ChatGPT · Antigravity**
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer — Lamda Logs
+
+**Jun 2025 – Aug 2026 · Ahmedabad, Gujarat**
+
+Worked on client and in-house enterprise products, building production modules and improving application performance, accessibility, and maintainability.
+
+* ⚡ Improved large data-table performance by **40%** using virtualization, Redux, and TanStack Query
+* 📄 Built complex multi-step forms with **Material UI, validation, draft functionality, and status workflows**
+* 🧩 Developed reusable production interfaces using **React, Tailwind CSS, Material UI, and Headless UI**
+* 🚀 Improved document rendering performance by **20%** through lazy loading, code splitting, and PDF Workers
+* 📊 Built responsive analytics dashboards using **Recharts, Material UI, and Tailwind CSS**
+* 🔌 Integrated **REST APIs, CRUD workflows, and server-state management**
+* 🧪 Added **Vitest unit tests and Playwright E2E tests**
+* 🤖 Used **Claude Code and Codex** for AI-assisted development, debugging, and code review
+
+### Software Developer Intern — Lamda Logs
+
+**Jan 2025 – May 2025 · Ahmedabad, Gujarat**
+
+Built hands-on experience with React, TypeScript, JavaScript, Redux, Zustand, TanStack Query, UI libraries, and REST API integrations.
+
+---
+
+## 🚀 Featured Projects
+
+### 📻 RadioVerse
+
+Full-stack radio streaming platform built with **Next.js, Redux, Node.js, Express.js, and MongoDB**.
+
+* Stations, accounts, and playlists
+* Next.js isomorphic rendering
+* Full-stack REST API architecture
+
+🔗 **Live:** https://radioverse.vercel.app/
+💻 **GitHub:** https://github.com/SahilChhatbar/radio-head
+
+### 💪 FitRep
+
+Full-stack fitness and diet tracking platform built with **Next.js, Mantine UI, TanStack Query, Node.js, Express.js, and MongoDB**.
+
+* Fitness and diet tracking
+* Next.js SSR
+* Server-state management with TanStack Query
+
+🔗 **Live:** https://fit-rep.vercel.app/
+💻 **GitHub:** https://github.com/SahilChhatbar/fitrep
+
+### 🎬 CineScope
+
+Responsive movie discovery application built with **React, Mantine UI, and TanStack Query**.
+
+* Movie search
+* Filtering
+* Detailed movie pages
+* Responsive UI
+
+🔗 **Live:** https://cinescope-gamma.vercel.app/
+💻 **GitHub:** https://github.com/SahilChhatbar/cine-scope
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering (AIML)**
+New LJ Institute of Engineering and Technology · GTU
+**CGPA: 9.04 · 2025**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://sahil-chhatbar.runs-on.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/SahilChhatbar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SahilChhatbar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chhatbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahilchhatbar7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software, learning continuously, and using AI as a development tool.</i>
+</p>
