@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://sahil-chhatbar.runs-on.dev">Sahil Chhatbar's Portfolio</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -27,7 +31,7 @@ I'm a **Software Developer** focused on building scalable, responsive, and maint
 * 🧪 Write **unit tests with Vitest** and **E2E tests with Playwright**
 * ♿ Focused on **responsive UI, semantic HTML, ARIA, and accessibility**
 * 🤖 Experienced with **AI-assisted development and AI agents**
-* 🧠 Currently interested in modern frontend architecture, performance, and developer tooling
+* 🧠 Interested in modern frontend architecture, performance, and developer tooling
 
 ---
 
