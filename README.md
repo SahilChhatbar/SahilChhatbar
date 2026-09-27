@@ -9,13 +9,9 @@
   <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chhatbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sahilchhatbar7@gmail.com">
+  <a href="mailto:[sahilchhatbar7@gmail.com](mailto:sahilchhatbar7@gmail.com)">
     <img src="https://img.shields.io/badge/Email-sahilchhatbar7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://sahil-chhatbar.runs-on.dev">Sahil Chhatbar's Portfolio</a>
 </p>
 
 ---
@@ -31,7 +27,7 @@ I'm a **Software Developer** focused on building scalable, responsive, and maint
 * 🧪 Write **unit tests with Vitest** and **E2E tests with Playwright**
 * ♿ Focused on **responsive UI, semantic HTML, ARIA, and accessibility**
 * 🤖 Experienced with **AI-assisted development and AI agents**
-* 🧠 Interested in modern frontend architecture, performance, and developer tooling
+* 🧠 Currently interested in modern frontend architecture, performance, and developer tooling
 
 ---
 
@@ -160,7 +156,7 @@ New LJ Institute of Engineering and Technology · GTU
   <a href="https://www.linkedin.com/in/sahil-chhatbar-2b888523a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Chhatbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sahilchhatbar7@gmail.com">
+  <a href="mailto:[sahilchhatbar7@gmail.com](mailto:sahilchhatbar7@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
